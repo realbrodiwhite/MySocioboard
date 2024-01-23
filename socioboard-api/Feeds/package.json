@@ -1,7 +1,7 @@
 {
-  "name": "socioboard-feeds",
+  "name": "arachnid-feeds",
   "version": "1.0.0",
-  "description": "Socioboard 5.0 feeds services",
+  "description": "arachnid feeds services",
   "main": "feeds.server.js",
   "type": "module",
   "scripts": {
@@ -15,15 +15,18 @@
   },
   "keywords": [
     "Feeds",
-    "Sociboard",
-    "5.0",
-    "Suresh",
-    "express",
-    "security",
+    "Arachnid",
+    "0.1.0",
+    "realbrodiwhite",
+    "Instagram",
+    "Facebook",
+    "social",
+    "Management",
+    "SMM",
     "languages"
   ],
-  "author": "Suresh Babu G",
-  "license": "ISC",
+  "author": "realbrodiwhite",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.21.1",
     "bcrypt": "^5.0.1",
