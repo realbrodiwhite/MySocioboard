@@ -28,7 +28,7 @@
   "author": "realbrodiwhite",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.28.0",
+    "axios": "^1.0.0",
     "bcrypt": "^5.0.1",
     "cheerio": "1.0.0-rc.10",
     "compression": "^1.7.4",
