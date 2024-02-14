@@ -28,7 +28,7 @@
     "seederStorage": "sequelize"
   },
   "test": {
-    "username": "root",
+    "username": "root\",
     "password": null,
     "database": "database_test",
     "host": "137.184.47.154",
