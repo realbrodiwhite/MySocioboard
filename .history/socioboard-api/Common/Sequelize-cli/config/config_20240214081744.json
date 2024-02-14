@@ -1,0 +1,14 @@
+{
+  "localDev": {
+    "username": "root",
+    "password": "socioV5devPassword",
+    "database": "socioV5dev",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "pool": {
+      "max": 100,
+      "min": 0,
+      "acquire": 1000000,
+      "idle": 200000
+    },
+}
