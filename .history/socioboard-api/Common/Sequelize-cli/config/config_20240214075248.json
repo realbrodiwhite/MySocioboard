@@ -1,9 +1,9 @@
 {
   "localDev": {
-    "username": "admin",
-    "password": "Whizzleman707!",
-    "database": "socioboard",
-    "host": "137.184.47.154",
+    "username": "root",
+    "password": "socioV5devPassword",
+    "database": "socioV5dev",
+    "host": "127.0.0.1",
     "dialect": "mysql",
     "pool": {
       "max": 100,
@@ -31,14 +31,14 @@
     "username": "root",
     "password": null,
     "database": "database_test",
-    "host": "137.184.47.154",
+    "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "development": {
-    "username": "admin",
-    "database": "socioboard",
-    "password": "Whizzleman707!",
-    "host": "137.184.47.154",
+    "username": "<< DB USER NAME >>",
+    "database": "<< Database name >>",
+    "password": "<< password >>",
+    "host": "127.0.0.1",
     "dialect": "mysql",
     "pool": {
       "max": 100,
