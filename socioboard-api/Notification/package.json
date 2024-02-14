@@ -21,7 +21,7 @@
     "csurf": "^1.11.0",
     "express": "^4.17.1",
     "express-rate-limit": "^5.2.6",
-    "file-stream-rotator": "^0.5.7",
+    "file-stream-rotator": "^0.6.0",
     "helmet": "^4.4.1",
     "joi": "^17.4.1",
     "morgan": "^1.10.0",
