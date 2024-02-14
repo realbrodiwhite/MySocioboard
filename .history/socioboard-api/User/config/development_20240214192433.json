@@ -112,7 +112,7 @@
       "host": "localhost",
       "username": "admin",
       "database": "socioboard",
-      "password": "Whizzleman707!"
+      "password": "<< Database password >>"
     },
     "mongo": {
       "username": "<< username >>",

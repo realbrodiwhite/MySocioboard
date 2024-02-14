@@ -111,8 +111,8 @@
     "mysql": {
       "host": "localhost",
       "username": "admin",
-      "database": "socioboard",
-      "password": "Whizzleman707!"
+      "database": "<< Database name >>",
+      "password": "<< Database password >>"
     },
     "mongo": {
       "username": "<< username >>",
