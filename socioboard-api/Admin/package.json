@@ -1,7 +1,7 @@
 {
-  "name": "socioboard-admin",
-  "version": "1.0.0",
-  "description": "Socioboard 5.0 admin panel",
+  "name": "arachnid-admin",
+  "version": "0.1.0",
+  "description": "Arachnid 0.1.0 Admin Panel",
   "main": "admin.server.js",
   "type": "module",
   "scripts": {
@@ -11,16 +11,19 @@
   },
   "keywords": [
     "Admin",
-    "Sociboard",
-    "5.0",
-    "vaughngx4",
-    "express",
+    "Arachnid",
+    "0.1.0",
+    "realbrodiwhite",
+    "Instagram",
+    "Facebook",
+    "social",
+    "Management",
+    "SMM",
     "administration",
-    "sequelize",
     "languages"
   ],
-  "author": "vaughngx4 (vaughng@pm.me)",
-  "license": "ISC",
+  "author": "realbrodiwhite",
+  "license": "MIT",
   "dependencies": {
     "admin-bro": "^3.2.5",
     "admin-bro-expressjs": "^2.1.1",
