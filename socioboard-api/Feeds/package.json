@@ -28,7 +28,7 @@
   "author": "realbrodiwhite",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.27.0",
+    "axios": "^0.28.0",
     "bcrypt": "^5.0.1",
     "cheerio": "1.0.0-rc.10",
     "compression": "^1.7.4",
@@ -45,7 +45,7 @@
     "file-stream-rotator": "^0.5.7",
     "helmet": "^4.4.1",
     "joi": "^17.4.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "moment-timezone": "^0.5.33",
     "mongoose": "^5.12.2",
     "morgan": "^1.10.0",
