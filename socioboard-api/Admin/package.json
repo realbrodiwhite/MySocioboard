@@ -25,7 +25,7 @@
   "author": "realbrodiwhite",
   "license": "MIT",
   "dependencies": {
-    "admin-bro": "^3.2.5",
+    "admin-bro": "^4.0.0",
     "admin-bro-expressjs": "^2.1.1",
     "admin-bro-sequelizejs": "^0.5.1",
     "config": "^3.3.7",
